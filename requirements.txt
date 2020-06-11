@@ -6,7 +6,6 @@ backports-abc==0.5
 backports.functools-lru-cache==1.6.1
 backports.shutil-get-terminal-size==1.0.0
 bdist-mpkg==0.5.0
-bleach==3.1.0
 bonjour-py==0.3
 configparser==4.0.2
 contextlib2==0.6.0.post1
@@ -84,7 +83,6 @@ pyobjc-framework-Social==2.5.1
 pyobjc-framework-SyncServices==2.5.1
 pyobjc-framework-SystemConfiguration==2.5.1
 pyobjc-framework-WebKit==2.5.1
-pyOpenSSL==0.13.1
 pyparsing==2.0.1
 pyrsistent==0.15.7
 python-dateutil==2.8.1

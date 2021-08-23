@@ -25,7 +25,7 @@ Jinja2==2.10.3
 jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
-jupyterlab==0.33.12
+jupyterlab==1.2.21
 jupyterlab-launcher==0.11.2
 lazy-object-proxy==1.4.3
 macholib==1.5.1
